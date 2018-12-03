@@ -12,4 +12,7 @@ public class GitTest{
 	public String toString(){
 		return test;
 	}
+	public void setTestAgain(String test){
+		this.test = test;
+	}
 }
